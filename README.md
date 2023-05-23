@@ -1,5 +1,13 @@
-# Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
-This project was bootstrapped with Fastify-CLI.
+# routing-api-proxy
+
+This is simple proxy server for routing-api, which can cache data to boost speed.
+Developed with Fastify.
+
+## How to start
+
+* Clone code
+* Add .env: `cp env.example .env` then edit the **ROUTING_API**
+* Start: `npm start`
 
 ## Available Scripts
 
